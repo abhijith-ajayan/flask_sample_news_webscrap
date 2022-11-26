@@ -1,4 +1,4 @@
-# flask_sample_news_webscrap
+# Python_flask_sample_app_news_webscrap
 
 
 # commands
